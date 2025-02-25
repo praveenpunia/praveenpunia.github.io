@@ -22,8 +22,6 @@ about:
 ::: {#about-block}
 :::
 
-# Welcome to my website!
-
 Praveen is a fourth-year Ph.D. student in Marketing at the University of Houston, with a passion for leveraging data-driven insights to understand organizational dynamics and enhance marketing effectiveness. His research interests are in the domain of Quantitative Marketing Strategy, with a focus on two research areas: Career Management and Creator Economy/Livestreaming. He specializes in using various methods for answering substantive questions, including econometric modeling, causal machine learning, and game theory, to generate actionable insights that bridge theory and practice.
 
 His paper examining performance incentives and employee retention is currently invited for third-round revision at the Journal of Marketing Research and received the best paper award at the 2024 OFR Symposium. His dissertation has been recognized with the 2025 Sales SIG Best Doctoral Dissertation Proposal Award, with the first essay also published in the MSI Working Paper Series.
@@ -47,9 +45,4 @@ Xactly Corporation | Academic Consultant | April 2023 - present
 
 Indian School of Business | Research Associate | May 2019 - July 2021
 
-<!-- ```{=html} -->
-<!-- <div  style="margin: 30px; text-align: center;"> -->
-<!-- <a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a> -->
-<!-- </div> -->
-<!-- ``` -->
 

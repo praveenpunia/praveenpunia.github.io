@@ -30,7 +30,7 @@ Prior to joining the University of Houston, he worked as a Research Associate in
 
 Please feel free to [contact me](mailto:praveen_punia@outlook.com) if you have any questions or would like to discuss potential projects.
 
-
+<!-- 
 ## Education
 
 University of Houston | Houston, TX 
@@ -45,4 +45,4 @@ Xactly Corporation | Academic Consultant | April 2023 - present
 
 Indian School of Business | Research Associate | May 2019 - July 2021
 
-
+ -->

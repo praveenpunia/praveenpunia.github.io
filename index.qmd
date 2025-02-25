@@ -1,0 +1,55 @@
+---
+about:
+  template: trestles # The other temaplates are:  jolla, trestles, solana marquee, broadside
+
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/MarvinSchmittML
+    - icon: github
+      text: Github
+      href: https://github.com/ppunia74
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/praveen-punia/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.marvinschmitt@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Praveen is a fourth-year Ph.D. student in Marketing at the University of Houston, with a passion for leveraging data-driven insights to understand organizational dynamics and enhance marketing effectiveness. His research interests are in the domain of Quantitative Marketing Strategy, with a focus on two research areas: Career Management and Creator Economy/Livestreaming. He specializes in using various methods for answering substantive questions, including econometric modeling, causal machine learning, and game theory, to generate actionable insights that bridge theory and practice.
+
+His paper examining performance incentives and employee retention is currently invited for third-round revision at the Journal of Marketing Research and received the best paper award at the 2024 OFR Symposium. His dissertation has been recognized with the 2025 Sales SIG Best Doctoral Dissertation Proposal Award, with the first essay also published in the MSI Working Paper Series.
+
+Prior to joining the University of Houston, he worked as a Research Associate in Marketing at the Indian School of Business. He holds a Master’s degree in Financial Economics from the University of Hyderabad, India.
+
+Please feel free to [contact me](mailto:praveen_punia@outlook.com) if you have any questions or would like to discuss potential projects.
+
+
+## Education
+
+University of Houston | Houston, TX 
+PhD in Marketing | Aug 2021 - present
+
+University of Hyderabad | Hyderabad, India 
+Integrated Master in Financail Economics | Jul 2014 - May 2019
+
+## Experience
+
+Xactly Corporation | Academic Consultant | April 2023 - present
+
+Indian School of Business | Research Associate | May 2019 - July 2021
+
+<!-- ```{=html} -->
+<!-- <div  style="margin: 30px; text-align: center;"> -->
+<!-- <a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a> -->
+<!-- </div> -->
+<!-- ``` -->
+

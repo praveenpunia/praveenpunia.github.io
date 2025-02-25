@@ -1,5 +1,9 @@
 ---
 title: Research
+format: 
+  html:
+    toc: true
+    toc-depth: 1
 ---
 
 # Working Papers

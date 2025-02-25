@@ -51,6 +51,8 @@ website:
 project:
   type: website
   output-dir: docs
+  resources:
+    - googleea7a7eed59362a5f.html
 
   preview: 
     port: 22222

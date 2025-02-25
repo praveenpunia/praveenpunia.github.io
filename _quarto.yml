@@ -10,7 +10,7 @@ website:
   
   # start of the navigation bar at the top of the website
   navbar:
-    pinned: true
+    #pinned: true
     # logo: /img/logo.png
     
     # your sub-pages

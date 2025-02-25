@@ -1,6 +1,6 @@
 ---
 about:
-  template: broadside # The other temaplates are:  jolla, trestles, solana marquee, broadside
+  template: solana # The other temaplates are:  jolla, trestles, solana marquee, broadside
 
   id: about-block
   image: "img/my_image.jpg"

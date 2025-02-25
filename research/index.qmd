@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "<h1 style='text-align: center;'>Research</h1>"
 format: 
   html:
     toc: false

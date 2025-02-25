@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: "<h1 style='text-align: center;'>CV</h1>" #CV
 #excerpt: My current CV
 execute:
   freeze: true  # never re-render during project render

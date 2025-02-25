@@ -1,10 +1,11 @@
 ---
-title: "Teaching"
+title: "<h1 style='text-align: center;'>Teaching Interests</h1>" #"Teaching"
+
 ---
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
 # Teaching Interests
-</div>
+</div> -->
 
 <div style="text-align: center;">
 Marketing Analytics, Marketing Strategy, Digital Selling, Digital Marketing, AI in Marketing

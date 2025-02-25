@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Curriculum vitae
-excerpt: My current CV
+title: CV
+#excerpt: My current CV
 execute:
   freeze: true  # never re-render during project render
-engine: knitr 
+engine: knitr
 resources:
   - "cv.pdf"
 cv:
@@ -29,4 +29,12 @@ cv:
     height: 100%;
 }
 ```
+
+
+```{=html}
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
+</div>
+```
+
 

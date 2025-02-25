@@ -2,17 +2,11 @@
 title: "Teaching Experience"
 ---
 
-<div style="text-align: center;">
 # Teaching Interests
-</div>
 
-<div style="text-align: center;">
-Marketing Analytics, Marketing Strategy, Digital Selling, Digital Marketing, AI in Marketing
-</div>
+Marketing Strategy, Sales Management, Marketing Analytics, Digital Marketing, Customer Relationship Management, AI in Marketing
 
-<div style="text-align: center;">
 # Teaching Experience
-</div>
 
 ## Instructor
 

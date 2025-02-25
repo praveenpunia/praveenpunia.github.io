@@ -45,9 +45,6 @@ with Michael Ahearne, Johannes Habel, and Jim Hess.
 In business-to-business (B2B) sales, firms face critical decisions about salesforce compensation and skill development that significantly impact performance. This paper examines two key questions: (1) What are the performance implications of hiring salespeople internally versus externally? And (2) Among the salespeople hired internally versus externally who are like to stay longer with the firm? We develop an analytical model that captures the key trade-offs in these decisions and test it using a unique dataset of 40 companies. For hiring source decisions, we show that while internal hires initially outperform due to firm-specific knowledge, external hires exhibit steeper learning curves and may eventually match or exceed internal hire performance. Our empirical analysis validates these theoretical predictions and quantifies the magnitude of these effects across different industry contexts. The findings provide actionable insights for sales managers making hiring decisions under uncertainty, while contributing to theories of salesforce management and human capital development.
 </details>
 
-
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
-
 <a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
 
 Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
@@ -55,8 +52,6 @@ Over the centuries, I have devoted countless hours to deciphering and translatin
 ----
 
 ## The History of the War of the Ring
-
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
 
 <a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
 

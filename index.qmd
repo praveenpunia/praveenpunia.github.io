@@ -2,7 +2,7 @@
 about:
   template: solana # The other temaplates are:  jolla, trestles, solana marquee, broadside
 
-  id: about-block
+  # id: about-block
   image: "img/my_image.jpg"
   links:
     # - icon: twitter
@@ -19,8 +19,8 @@ about:
       href: "mailto:ppraveen@bauer.uh.com"  
 ---
 
-::: {#about-block}
-:::
+<!-- ::: {#about-block} -->
+<!-- ::: -->
 
 ## Welcome!
 

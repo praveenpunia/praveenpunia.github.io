@@ -1,6 +1,6 @@
 ---
 about:
-  template: trestles # The other temaplates are:  jolla, trestles, solana marquee, broadside
+  template: broadside # The other temaplates are:  jolla, trestles, solana marquee, broadside
 
   id: about-block
   image: "img/my_image.jpg"
@@ -16,19 +16,21 @@ about:
       href: https://www.linkedin.com/in/praveen-punia/
     - icon: envelope
       text: Email
-      href: "mailto:mail.marvinschmitt@gmail.com"  
+      href: "mailto:ppraveen@bauer.uh.com"  
 ---
 
 ::: {#about-block}
 :::
 
-Praveen is a fourth-year Ph.D. student in Marketing at the University of Houston, with a passion for leveraging data-driven insights to understand organizational dynamics and enhance marketing effectiveness. His research interests are in the domain of Quantitative Marketing Strategy, with a focus on two research areas: Career Management and Creator Economy/Livestreaming. He specializes in using various methods for answering substantive questions, including econometric modeling, causal machine learning, and game theory, to generate actionable insights that bridge theory and practice.
+## Welcome!
 
-His paper examining performance incentives and employee retention is currently invited for third-round revision at the Journal of Marketing Research and received the best paper award at the 2024 OFR Symposium. His dissertation has been recognized with the 2025 Sales SIG Best Doctoral Dissertation Proposal Award, with the first essay also published in the MSI Working Paper Series.
+I am Praveen Punia, Ph.D. student in Marketing at the University of Houston, with a passion for leveraging data-driven insights to understand organizational dynamics and enhance marketing effectiveness. My research interests are in the domain of Quantitative Marketing Strategy, with a focus on two research areas: Career Management and Creator Economy/Livestreaming. I specializes in using various methods for answering substantive questions, including econometric modeling, causal machine learning, and game theory, to generate actionable insights that bridge theory and practice.
 
-Prior to joining the University of Houston, he worked as a Research Associate in Marketing at the Indian School of Business. He holds a Master’s degree in Financial Economics from the University of Hyderabad, India.
+My dissertation has been recognized with the 2025 Sales SIG Best Doctoral Dissertation Proposal Award, with the first essay also published in the MSI Working Paper Series. My paper examining performance incentives and employee retention is currently invited for third-round revision at the Journal of Marketing Research and received the best paper award at the 2024 OFR Symposium.
 
-Please feel free to [contact me](mailto:praveen_punia@outlook.com) if you have any questions or would like to discuss potential projects.
+Prior to joining the University of Houston, I worked as a Research Associate in Marketing at the Indian School of Business. I have a Master’s degree in Financial Economics from the University of Hyderabad, India.
+
+Please feel free to [contact me](mailto:ppraveen@bauer.uh.com) if you have any questions or would like to discuss potential projects.
 
 <!-- 
 ## Education

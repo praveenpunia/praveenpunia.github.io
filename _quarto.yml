@@ -5,6 +5,7 @@ website:
   title: "Praveen Punia"                                # Your name
   description: "Praveen is PhD candidate in Marketing at University of Houston"   # A brief slogan (optional)
   image: img/my_image.jpg
+  site-url: "https://ppunia74.github.io"  # Add your website URL
   
   # favicon: img/favicon.png
   
@@ -53,8 +54,8 @@ project:
   output-dir: docs
   resources:
     - googleea7a7eed59362a5f.html
-    - sitemap.xml
-
+    
+    
   preview: 
     port: 22222
     browser: true

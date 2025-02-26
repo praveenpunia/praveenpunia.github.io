@@ -53,6 +53,7 @@ project:
   output-dir: docs
   resources:
     - googleea7a7eed59362a5f.html
+    - sitemap.xml
 
   preview: 
     port: 22222

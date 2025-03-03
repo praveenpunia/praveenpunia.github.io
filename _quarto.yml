@@ -5,7 +5,7 @@ website:
   title: "Praveen Punia"                                # Your name
   description: "Praveen is PhD candidate in Marketing at University of Houston"   # A brief slogan (optional)
   image: img/my_image.jpg
-  site-url: "https://ppunia74.github.io"  # Add your website URL
+  site-url: "https://praveenpunia.github.io"  # Add your website URL
   
   # favicon: img/favicon.png
   
@@ -22,7 +22,8 @@ website:
         href: teaching/index.qmd
       - text: "CV"
         href: cv/index.qmd
-    
+
+ # start of the navigation bar on top left of the website    
     # your social media handles
     # left:
       # - icon: folder-symlink

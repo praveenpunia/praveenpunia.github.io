@@ -28,11 +28,12 @@ I am Praveen Punia, Ph.D. student in Marketing at the University of Houston, wit
 
 My dissertation has been recognized with the 2025 Sales SIG Best Doctoral Dissertation Proposal Award, with the first essay also published in the MSI Working Paper Series. My paper examining performance incentives and employee retention is currently invited for third-round revision at the Journal of Marketing Research and received the best paper award at the 2024 OFR Symposium.
 
+<!-- 
 Prior to joining the University of Houston, I worked as a Research Associate in Marketing at the Indian School of Business. I have a Master’s degree in Financial Economics from the University of Hyderabad, India.
 
 Please feel free to [contact me](mailto:ppraveen@bauer.uh.com) if you have any questions or would like to discuss potential projects.
 
-<!-- 
+
 ## Education
 
 University of Houston | Houston, TX 

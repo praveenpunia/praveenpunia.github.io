@@ -40,7 +40,7 @@ website:
 
 # Don't touch unless you know what you are doing :) ------------
   search: 
-    location: navbar
+    location: navbar 
     type: textbox
   page-footer: 
     left: |

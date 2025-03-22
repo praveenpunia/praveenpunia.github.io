@@ -26,7 +26,7 @@ $green:   #118230 !default;
 $teal:    #068194 !default;
 $cyan:    #3093CF !default;
 
-$primary:   $teal!default;
+$primary:   $black!default;
 $secondary: $gray-700 !default;
 $success:   $green !default;
 $info:      $cyan !default;
@@ -118,3 +118,8 @@ $btn-code-copy-color-active: $orange !default;
         }
     }
 }
+
+// The following line is added to change the color of the navbar
+//.navbar, .navbar a, .navbar-brand {
+//  color: $black !important; 
+//}

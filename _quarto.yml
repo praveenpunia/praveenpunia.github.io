@@ -39,9 +39,10 @@ website:
   
 
 # Don't touch unless you know what you are doing :) ------------
-  search: 
-    location: navbar 
-    type: textbox
+ # Uncomment the following lines to enable search
+  # search: 
+  #   location: navbar 
+  #   type: textbox
   page-footer: 
     left: |
       <span class="faux-block">&#169; 2025 Praveen Punia CC BY-SA 4.0</span>
@@ -55,6 +56,7 @@ project:
   output-dir: docs
   resources:
     - googleea7a7eed59362a5f.html
+    - sitemap.xml 
     
     
   preview: 

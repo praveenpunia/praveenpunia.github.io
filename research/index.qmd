@@ -76,20 +76,6 @@ The role of sales is unique within organizations, marked by its high-profile nat
 
 <div class="paper-entry">
 <div class="paper-entry-content">
-**"Build vs. Acquire: The Impact of Internal vs. External Sales Hiring on Firm Performance"** (Preparing for submission to Marketing Science)
-with Michael Ahearne, Johannes Habel, and Jim Hess.
-</div>
-<div class="arrow-container">▼</div>
-<div class="divider"></div>
-
-<details>
-<summary></summary>
-In business-to-business (B2B) sales, firms face critical decisions about salesforce compensation and skill development that significantly impact performance. This paper examines two key questions: (1) What are the performance implications of hiring salespeople internally versus externally? And (2) Among the salespeople hired internally versus externally who are like to stay longer with the firm? We develop an analytical model that captures the key trade-offs in these decisions and test it using a unique dataset of 40 companies. For hiring source decisions, we show that while internal hires initially outperform due to firm-specific knowledge, external hires exhibit steeper learning curves and may eventually match or exceed internal hire performance. Our empirical analysis validates these theoretical predictions and quantifies the magnitude of these effects across different industry contexts. The findings provide actionable insights for sales managers making hiring decisions under uncertainty, while contributing to theories of salesforce management and human capital development.
-</details>
-</div>
-
-<div class="paper-entry">
-<div class="paper-entry-content">
 **"Unemployment and Service Quality"** (Preparing for submission to Management Science)
 with Michael Ahearne, Johannes Habel, and Jim Hess.
 </div>
@@ -131,6 +117,21 @@ TFT generates probabilistic predictions that account for heterogeneous lifecycle
 In B2B sales negotiations where multi-stakeholder dynamics and trust are critical salespeople face challenges processing vast data and adapting strategies in real time. AI offers potential to enhance these capabilities but raises concerns about trust and alignment with human judgment. To explore AI’s role in this context, we ask three critical questions: (1) How do AI agents balance efficiency and relationship-building in B2B sales negotiations? (2) What mechanisms explain AI’s impact on social coordination costs and strategic decision-making in iterative negotiations? (3) How can prompt engineering align AI personas with salespeople traits to optimize collaboration and outcomes? We aim to develop SalesSynergy a custom platform enabling human-AI collaboration in simulated and real-world negotiation. We employ a mixed- methods approach with 2 interconnected studies. First, a controlled experiment with sales professionals randomly assigned to different conditions will complete negotiation tasks. Second, using a quasi-experimental design in a field study with a B2B firm to validate findings using real negotiations. By extending negotiation theory and human-AI collaboration frameworks, this research offer actionable frameworks for sales practitioners and AI developers while advancing academic understanding of AI-augmented negotiations in B2B.
 </details>
 </div>
+
+<div class="paper-entry">
+<div class="paper-entry-content">
+**"Build vs. Acquire: The Impact of Internal vs. External Sales Hiring on Firm Performance"** 
+with Michael Ahearne, Johannes Habel, and Jim Hess.
+</div>
+<div class="arrow-container">▼</div>
+<div class="divider"></div>
+
+<details>
+<summary></summary>
+In business-to-business (B2B) sales, firms face critical decisions about salesforce compensation and skill development that significantly impact performance. This paper examines two key questions: (1) What are the performance implications of hiring salespeople internally versus externally? And (2) Among the salespeople hired internally versus externally who are like to stay longer with the firm? We develop an analytical model that captures the key trade-offs in these decisions and test it using a unique dataset of 40 companies. For hiring source decisions, we show that while internal hires initially outperform due to firm-specific knowledge, external hires exhibit steeper learning curves and may eventually match or exceed internal hire performance. Our empirical analysis validates these theoretical predictions and quantifies the magnitude of these effects across different industry contexts. The findings provide actionable insights for sales managers making hiring decisions under uncertainty, while contributing to theories of salesforce management and human capital development.
+</details>
+</div>
+
 
 <div class="paper-entry">
 <div class="paper-entry-content">

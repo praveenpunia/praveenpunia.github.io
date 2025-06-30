@@ -114,6 +114,9 @@ TFT generates probabilistic predictions that account for heterogeneous lifecycle
 </div>
 <div class="arrow-container">▼</div>
 <div class="divider"></div>
+
+<details>
+<summary></summary>
 In B2B sales negotiations where multi-stakeholder dynamics and trust are critical salespeople face challenges processing vast data and adapting strategies in real time. AI offers potential to enhance these capabilities but raises concerns about trust and alignment with human judgment. To explore AI’s role in this context, we ask three critical questions: (1) How do AI agents balance efficiency and relationship-building in B2B sales negotiations? (2) What mechanisms explain AI’s impact on social coordination costs and strategic decision-making in iterative negotiations? (3) How can prompt engineering align AI personas with salespeople traits to optimize collaboration and outcomes? We aim to develop SalesSynergy a custom platform enabling human-AI collaboration in simulated and real-world negotiation. We employ a mixed- methods approach with 2 interconnected studies. First, a controlled experiment with sales professionals randomly assigned to different conditions will complete negotiation tasks. Second, using a quasi-experimental design in a field study with a B2B firm to validate findings using real negotiations. By extending negotiation theory and human-AI collaboration frameworks, this research offer actionable frameworks for sales practitioners and AI developers while advancing academic understanding of AI-augmented negotiations in B2B.
 </details>
 </div>
